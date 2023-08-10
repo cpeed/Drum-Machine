@@ -1,0 +1,19 @@
+.switch-box {
+  padding: 4px;
+  width: 54px;
+  height: 24px;
+  background-color: black;
+  display: flex;
+}
+.switch-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.switch {
+  width: 21px;
+  background-color: blue;
+  height: 100%;
+  cursor: pointer;
+  margin-left: auto;
+}

@@ -1,0 +1,9 @@
+.display-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 200px;
+  height: 49px;
+  background-color: #808080;
+  font-weight: 900;
+}

@@ -1,0 +1,16 @@
+button {
+  background-color: #808080;
+  width: 6.25rem;
+  height: 5rem;
+  border-radius: 0.5rem;
+  box-shadow: 4px 4px 5px;
+  cursor: pointer;
+  font-weight: 900;
+  font-size: 1rem;
+  outline-color: #fea125;
+  outline-style: groove;
+}
+button:active {
+  background-color: #fea125;
+}
+
